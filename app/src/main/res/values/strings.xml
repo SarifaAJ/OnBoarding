@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">On Boarding</string>
+
+    <string name="onboarding_title">Horem ipsum dolor sit </string>
+    <string name="onboarding_desc">Rorem ipsum dolor sit amet, consectetur adipiscing elit. </string>
+
+    <string name="back">Back</string>
+    <string name="next">Continue</string>
+    <string name="welcome">Welcome</string>
+</resources>
